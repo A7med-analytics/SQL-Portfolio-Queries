@@ -24,6 +24,12 @@ Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
 <a href="https://ahmedalaa-analytics1.odoo.com">
 <img src="https://img.shields.io/badge/Portfolio-Explore-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
+<a href="mailto:aa4666297@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://wa.me/201011913145">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 </p>
 
 </div>
@@ -34,63 +40,63 @@ Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
 
 Welcome to my **Excel Data Analytics Portfolio**.
 
-This repository showcases my practical experience in **Microsoft Excel for Data Analytics and Business Intelligence**.
+This repository is dedicated to showcasing practical applications of Microsoft Excel in Data Analytics and Business Intelligence.
 
-It contains hands-on projects covering real-world business scenarios, from raw data preparation and transformation to analytical reporting and interactive dashboard development.
+It focuses on developing skills in data preparation, data transformation, analytical techniques, KPI development, business reporting, and interactive dashboard creation.
 
-The projects demonstrate how Excel can be used to organize complex datasets, identify business trends, monitor performance, and generate meaningful business insights.
-
-My goal is to develop practical analytical solutions that combine data processing, business analysis, and effective data visualization to support data-driven decision-making.
+My objective is to transform raw datasets into meaningful insights and build analytical solutions that support data-driven decision-making.
 
 ---
 
 ## 📂 Projects & Case Studies
 
-A collection of practical Excel projects covering different business scenarios.
+This portfolio is currently under development. New projects and practical case studies will be published as they are completed.
+
+### 🔜 Upcoming Projects
 
 <table>
 <thead>
 <tr>
 <th>Project</th>
 <th>Technologies</th>
-<th>Key Highlights</th>
+<th>Business Focus</th>
+<th>Status</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td>
-<b>👥 HR Compensation & Salary Analysis</b><br><br>
-<a href="./HR/">Explore Project →</a>
-</td>
-<td>
-Microsoft Excel<br>
-Pivot Tables<br>
-Power Query<br>
-Excel Charts
-</td>
-<td>
-<ul>
-<li>HR compensation and salary analysis.</li>
-<li>Analyzing salary distribution across departments.</li>
-<li>Comparing compensation by job roles and education levels.</li>
-<li>Developing KPI dashboards and analytical reports.</li>
-</ul>
-</td>
+<td>👥 HR Compensation & Salary Analysis</td>
+<td>Excel, Pivot Tables, Power Query</td>
+<td>HR Analytics & Compensation Insights</td>
+<td>🔜 Coming Soon</td>
+</tr>
+
+<tr>
+<td>📈 Business KPI Dashboard</td>
+<td>Excel, Charts, Pivot Tables</td>
+<td>Performance Monitoring & Reporting</td>
+<td>🔜 Coming Soon</td>
+</tr>
+
+<tr>
+<td>🔄 Data Cleaning & ETL</td>
+<td>Power Query, Excel</td>
+<td>Data Preparation & Automation</td>
+<td>🔜 Coming Soon</td>
+</tr>
+
+<tr>
+<td>📊 Sales Performance Analysis</td>
+<td>Excel, Pivot Tables, Charts</td>
+<td>Sales Trends & Business Insights</td>
+<td>🔜 Coming Soon</td>
 </tr>
 
 </tbody>
 </table>
 
-### 🔜 Upcoming Projects
-
-| Project | Business Focus | Status |
-|---|---|---|
-| 📈 Business KPI Dashboard | Performance Monitoring & Reporting | Coming Soon |
-| 🔄 Data Cleaning & ETL | Data Preparation & Automation | Coming Soon |
-| 📊 Sales Performance Analysis | Sales Trends & Business Insights | Coming Soon |
-
-*More projects and analytical case studies will be added as the portfolio grows.*
+*Projects will be added with their workbooks, analytical processes, and dashboard previews once completed.*
 
 ---
 
@@ -143,7 +149,7 @@ Excel Charts
 | Data Modeling | Power Pivot, Data Relationships, Data Models |
 | Business Intelligence | KPI Development, Performance Monitoring |
 | Data Visualization | Charts, Interactive Dashboards, Visual Reporting |
-| Business Analysis | HR Analytics, Salary Analysis, Business Insights |
+| Business Analysis | Business Analysis, Performance Insights, Reporting |
 
 ---
 
@@ -157,17 +163,17 @@ git clone https://github.com/A7med-analytics/Excel-Data-Analytics.git
 cd Excel-Data-Analytics
 ```
 
-### 2. Open the Project
+### 2. Explore the Repository
 
-Navigate to the project folder and open the Excel workbook using Microsoft Excel.
+Browse the README and follow upcoming project updates.
 
-### 3. Explore the Analysis
+### 3. Explore Available Projects
 
-Review the worksheets, formulas, Pivot Tables, data models, and dashboards.
+Once projects are published, their folders will contain the corresponding Excel workbooks and supporting files.
 
-### 4. Interact with the Dashboard
+### 4. Analyze & Interact
 
-Use available filters, slicers, and interactive elements to explore the data and discover business insights.
+Explore worksheets, formulas, Pivot Tables, data models, dashboards, filters, and slicers included in each completed project.
 
 ---
 
@@ -176,31 +182,21 @@ Use available filters, slicers, and interactive elements to explore the data and
 ```text
 Excel-Data-Analytics/
 │
-├── HR/
-│   └── Excel Project Files
-│
-├── Business-KPI-Dashboard/    (Coming Soon)
-│
-├── Data-Cleaning-ETL/         (Coming Soon)
-│
-├── Sales-Analysis/            (Coming Soon)
-│
 └── README.md
 ```
 
-*The repository structure will evolve as new projects and workbooks are added.*
+*The repository structure will expand as new projects and workbooks are published.*
 
 ---
 
 ## 🎯 What You'll Find Here
 
-- Practical business analysis using Microsoft Excel.
-- Interactive dashboards and KPI reporting.
-- Data cleaning and transformation workflows.
-- HR compensation and salary analytics.
-- Data modeling using Pivot Tables and Power Pivot.
-- Business-focused analytical solutions.
-- Real-world case studies and actionable insights.
+- Practical Excel Data Analytics projects.
+- Data cleaning and transformation techniques.
+- Business analysis and KPI development.
+- Pivot Tables and Power Pivot applications.
+- Interactive dashboards and visual reporting.
+- Business Intelligence concepts and analytical insights.
 
 ---
 
@@ -226,8 +222,14 @@ Digital Egypt Pioneers Initiative (DEPI) – Data Analysis Track
 <a href="https://ahmedalaa-analytics1.odoo.com">
 <img src="https://img.shields.io/badge/Portfolio-Visit-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
+</p>
+
+<p>
 <a href="mailto:aa4666297@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-aa4666297%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://wa.me/201011913145">
+<img src="https://img.shields.io/badge/WhatsApp-01011913145-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </p>
 
