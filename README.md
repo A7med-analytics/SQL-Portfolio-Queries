@@ -154,19 +154,17 @@ This portfolio is currently under development. New projects and practical case s
 
 ---
 
-## 📊 Data Analysis Workflow
+## 💡 Business Value & Objectives
 
-My approach to data analysis follows a structured process to transform raw data into meaningful business insights.
+The goal of this portfolio is to demonstrate how Microsoft Excel can support business performance analysis and data-driven decision-making.
 
-| Phase | Description |
-|---|---|
-| 01. Data Collection | Gathering and understanding raw datasets. |
-| 02. Data Cleaning | Removing duplicates, handling missing values, and correcting inconsistencies. |
-| 03. Data Transformation | Preparing and transforming data using Power Query and Excel. |
-| 04. Data Analysis | Exploring trends, identifying patterns, and performing business analysis. |
-| 05. KPI Development | Defining relevant performance indicators and business metrics. |
-| 06. Data Visualization | Building interactive dashboards and meaningful visual reports. |
-| 07. Business Insights | Translating analytical results into actionable business recommendations. |
+**Key Objectives:**
+
+- **Data-Driven Decisions:** Transforming raw data into meaningful business insights.
+- **Performance Monitoring:** Developing KPIs to track business performance.
+- **Operational Efficiency:** Improving data preparation and reporting processes.
+- **Business Intelligence:** Identifying trends, patterns, and opportunities.
+- **Actionable Insights:** Presenting analytical findings through clear reports and interactive dashboards.
 
 ---
 
