@@ -21,11 +21,8 @@ Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
 <a href="https://www.linkedin.com/in/a7med-alaa121206">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://ahmedalaa-analytics1.odoo.com">
-<img src="https://img.shields.io/badge/Portfolio-Explore-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
 <a href="mailto:aa4666297@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://wa.me/201011913145">
 <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
@@ -219,17 +216,11 @@ Digital Egypt Pioneers Initiative (DEPI) – Data Analysis Track
 <a href="https://www.linkedin.com/in/a7med-alaa121206">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://ahmedalaa-analytics1.odoo.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-</p>
-
-<p>
 <a href="mailto:aa4666297@gmail.com">
-<img src="https://img.shields.io/badge/Email-aa4666297%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://wa.me/201011913145">
-<img src="https://img.shields.io/badge/WhatsApp-01011913145-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </p>
 
