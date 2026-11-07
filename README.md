@@ -67,28 +67,28 @@ This portfolio is currently under development. New projects and practical case s
 <tbody>
 
 <tr>
-<td>👥 HR Compensation & Salary Analysis</td>
+<td>👥 <b>HR Compensation & Salary Analysis</b></td>
 <td>Excel, Pivot Tables, Power Query</td>
 <td>HR Analytics & Compensation Insights</td>
 <td>🔜 Coming Soon</td>
 </tr>
 
 <tr>
-<td>📈 Business KPI Dashboard</td>
+<td>📈 <b>Business KPI Dashboard</b></td>
 <td>Excel, Charts, Pivot Tables</td>
 <td>Performance Monitoring & Reporting</td>
 <td>🔜 Coming Soon</td>
 </tr>
 
 <tr>
-<td>🔄 Data Cleaning & ETL</td>
+<td>🔄 <b>Data Cleaning & ETL</b></td>
 <td>Power Query, Excel</td>
 <td>Data Preparation & Automation</td>
 <td>🔜 Coming Soon</td>
 </tr>
 
 <tr>
-<td>📊 Sales Performance Analysis</td>
+<td>📊 <b>Sales Performance Analysis</b></td>
 <td>Excel, Pivot Tables, Charts</td>
 <td>Sales Trends & Business Insights</td>
 <td>🔜 Coming Soon</td>
@@ -97,7 +97,7 @@ This portfolio is currently under development. New projects and practical case s
 </tbody>
 </table>
 
-*Projects will be added with their workbooks, analytical processes, and dashboard previews once completed.*
+*Each project will be published with its Excel workbook, analytical process, and dashboard previews once completed.*
 
 ---
 
@@ -154,27 +154,19 @@ This portfolio is currently under development. New projects and practical case s
 
 ---
 
-## 🚀 Getting Started
+## 📊 Data Analysis Workflow
 
-### 1. Clone the Repository
+My approach to data analysis follows a structured process to transform raw data into meaningful business insights.
 
-```bash
-git clone https://github.com/A7med-analytics/Excel-Data-Analytics.git
-
-cd Excel-Data-Analytics
-```
-
-### 2. Explore the Repository
-
-Browse the README and follow upcoming project updates.
-
-### 3. Explore Available Projects
-
-Once projects are published, their folders will contain the corresponding Excel workbooks and supporting files.
-
-### 4. Analyze & Interact
-
-Explore worksheets, formulas, Pivot Tables, data models, dashboards, filters, and slicers included in each completed project.
+| Phase | Description |
+|---|---|
+| 01. Data Collection | Gathering and understanding raw datasets. |
+| 02. Data Cleaning | Removing duplicates, handling missing values, and correcting inconsistencies. |
+| 03. Data Transformation | Preparing and transforming data using Power Query and Excel. |
+| 04. Data Analysis | Exploring trends, identifying patterns, and performing business analysis. |
+| 05. KPI Development | Defining relevant performance indicators and business metrics. |
+| 06. Data Visualization | Building interactive dashboards and meaningful visual reports. |
+| 07. Business Insights | Translating analytical results into actionable business recommendations. |
 
 ---
 
