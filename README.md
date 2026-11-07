@@ -35,13 +35,17 @@ Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
 
 ## 📌 About This Repository
 
-Welcome to my **Excel Data Analytics Portfolio**.
+**Welcome to my Excel Data Analytics & Business Intelligence Portfolio.**
 
-This repository is dedicated to showcasing practical applications of Microsoft Excel in Data Analytics and Business Intelligence.
+This repository is dedicated to showcasing practical applications of Microsoft Excel in transforming raw datasets into meaningful business insights.
 
-It focuses on developing skills in data preparation, data transformation, analytical techniques, KPI development, business reporting, and interactive dashboard creation.
+**Core Focus Areas:**
 
-My objective is to transform raw datasets into meaningful insights and build analytical solutions that support data-driven decision-making.
+- **Data Cleaning & Transformation:** Power Query, Excel formulas, and data validation.
+- **Analysis & Modeling:** Analytical functions, Pivot Tables, Power Pivot, and KPI development.
+- **Visualization & Business Intelligence:** Interactive dashboards, dynamic reporting, and business performance analysis.
+
+**Objective:** Developing practical analytical solutions that bridge the gap between raw data and data-driven business decisions.
 
 ---
 
