@@ -7,13 +7,13 @@
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/Power_Query-0F6B3E?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
-<img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Analytics-1D6F42?style=for-the-badge&logo=googleanalytics&logoColor=white">
 <img src="https://img.shields.io/badge/Business_Intelligence-217346?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
 
 <p>
-A collection of practical Excel projects exploring Data Analysis,
+A collection of practical Excel projects focused on Data Analysis,
 Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
 </p>
 
@@ -32,17 +32,21 @@ Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
 
 ## 📌 About This Repository
 
+Welcome to my **Excel Data Analytics Portfolio**.
+
 This repository showcases my practical experience in **Microsoft Excel for Data Analytics and Business Intelligence**.
 
-It contains hands-on Excel projects covering real-world business scenarios, from raw data preparation and transformation to analytical reporting and interactive dashboard development.
+It contains hands-on projects covering real-world business scenarios, from raw data preparation and transformation to analytical reporting and interactive dashboard development.
 
-The projects demonstrate how Excel can be used to organize complex datasets, identify business trends, monitor performance, and generate meaningful insights.
+The projects demonstrate how Excel can be used to organize complex datasets, identify business trends, monitor performance, and generate meaningful business insights.
 
-My goal is to develop practical analytical solutions that combine data processing, business analysis, and effective data visualization.
+My goal is to develop practical analytical solutions that combine data processing, business analysis, and effective data visualization to support data-driven decision-making.
 
 ---
 
 ## 📂 Projects & Case Studies
+
+A collection of practical Excel projects covering different business scenarios.
 
 <table>
 <thead>
@@ -56,7 +60,7 @@ My goal is to develop practical analytical solutions that combine data processin
 
 <tr>
 <td>
-<b>👥 HR Compensation & Salary Analysis</b><br>
+<b>👥 HR Compensation & Salary Analysis</b><br><br>
 <a href="./HR/">Explore Project →</a>
 </td>
 <td>
@@ -78,7 +82,15 @@ Excel Charts
 </tbody>
 </table>
 
-*More Excel projects, dashboards, and business case studies will be added as the portfolio grows.*
+### 🔜 Upcoming Projects
+
+| Project | Business Focus | Status |
+|---|---|---|
+| 📈 Business KPI Dashboard | Performance Monitoring & Reporting | Coming Soon |
+| 🔄 Data Cleaning & ETL | Data Preparation & Automation | Coming Soon |
+| 📊 Sales Performance Analysis | Sales Trends & Business Insights | Coming Soon |
+
+*More projects and analytical case studies will be added as the portfolio grows.*
 
 ---
 
@@ -167,20 +179,28 @@ Excel-Data-Analytics/
 ├── HR/
 │   └── Excel Project Files
 │
+├── Business-KPI-Dashboard/    (Coming Soon)
+│
+├── Data-Cleaning-ETL/         (Coming Soon)
+│
+├── Sales-Analysis/            (Coming Soon)
+│
 └── README.md
 ```
 
-*The repository structure will expand as additional projects and workbooks are added.*
+*The repository structure will evolve as new projects and workbooks are added.*
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 What You'll Find Here
 
-- Apply practical Excel techniques to real-world datasets.
-- Build structured and reusable data preparation workflows.
-- Develop analytical reports and interactive dashboards.
-- Translate business data into meaningful KPIs.
-- Improve business understanding through data-driven analysis.
+- Practical business analysis using Microsoft Excel.
+- Interactive dashboards and KPI reporting.
+- Data cleaning and transformation workflows.
+- HR compensation and salary analytics.
+- Data modeling using Pivot Tables and Power Pivot.
+- Business-focused analytical solutions.
+- Real-world case studies and actionable insights.
 
 ---
 
@@ -190,12 +210,14 @@ Excel-Data-Analytics/
 
 ### Ahmed Alaa
 
-**Data Analyst | Business Intelligence Specialist**
+**Data Analyst | Business Intelligence Enthusiast**
 
 Computer Science & Artificial Intelligence Student  
 Zagazig National University | Class of 2029
 
-Certified Data Analyst Specialist – Digital Egypt Pioneers Initiative (DEPI)
+Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+Digital Egypt Pioneers Initiative (DEPI) – Data Analysis Track
 
 <p>
 <a href="https://www.linkedin.com/in/a7med-alaa121206">
